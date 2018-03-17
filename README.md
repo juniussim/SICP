@@ -10,6 +10,8 @@ I am currently going through it as a re-introduction to programming, in order to
 
 - [Having trouble deciding between Classic SICP / Current 61A / Current 61AS?](Deciding-btw-61A-61AS-Original.md)
 
+- [Useful SICP Resources (Classic 61A Lectures / Modern 61A Lectures / Modern 61AS Lectures)](SICP-resources.md)
+
 - [Personal Notes.](Notes.md)
 
 ## Other Useful SICP References
