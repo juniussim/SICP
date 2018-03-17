@@ -2,9 +2,9 @@
 
 SICP highlights the idea of abstraction as the fundamental principle of computer science, and brilliantly illustrates this principle with a series of mind-blowing examples from the functional, object-oriented, and declarative programming paradigms.
 
-This repository contains notes taken while going through SICP, the classic text for learning programming.
+This repository contains useful resources for going through SICP as well as my own personal notes. All online resources are provided generously by UC Berkeley.
 
-Going through it as a reintroduction to programming, in order to learn programming concepts and models that i might have missed out before.
+I am currently going through it as a re-introduction to programming, in order to learn programming concepts and models that i might have missed out in the past.
 
 ## Content Directory
 
