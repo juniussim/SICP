@@ -12,7 +12,7 @@ I am currently going through it as a re-introduction to programming, in order to
 
 - [Useful SICP Resources (Classic 61A Lectures / Current 61A Lectures / Current 61AS Lectures)](SICP-Resources.md)
 
-- [Personal Notes.](Notes.md)
+- [Personal Notes.](https://github.com/juniussim/SICP/tree/master/notes)
 
 ## Other Useful SICP References
 
