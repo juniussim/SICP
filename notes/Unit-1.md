@@ -793,7 +793,7 @@ the procedure of an argument x that adds x and 4
 
 - What is mathematical formalism?
 
-** Using ```let``` to create local variables.**
+**Using ```let``` to create local variables.**
 
 ```clojure
 
