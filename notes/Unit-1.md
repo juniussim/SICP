@@ -163,7 +163,7 @@ circumference
 
 - It should be clear that the possibility of associating values with symbols and later retrieving them means that the interpreter must maintain some sort of memory that keeps track of the name-object pairs. This memory is called the environment (more precisely the global environment, since we will see later that a computation may involve a number of different environments).
 
-** Evaluating Combinations (Compound Expressions) **
+**Evaluating Combinations (Compound Expressions)**
 
 - To evaluate a combination, do the following:
 
@@ -639,7 +639,7 @@ circumference
       (fib-iter (+ a b) a (- count 1))))
 ```
 
-### Orders of Growth
+#### Orders of Growth
 
 - Processes can differ considerably in the rates at which they consume computational resources. 
 
@@ -844,7 +844,7 @@ the procedure of an argument x that adds x and 4
 
   - This implies that Let allows one to bind variables as locally as possible to where they are used. Consider this procedure
 
-  ```clojure
+```clojure
 # the outer value of x is 5 and the inner value of x is 3 as defined by let.
 
 (define (test x)
