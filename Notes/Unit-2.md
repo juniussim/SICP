@@ -102,9 +102,10 @@
 (denom <x>) returns the denominator of the rational number x
 ```
 
-- Once we have the constructors and selectors for rational numbers, we can start to model real world usage operations for rational numbers.
+- Once we have the constructors and selectors for rational numbers, we can express its mathematical rules as procedures.
 
 <p text-align="center">
     <img src="../diagrams/rational-numbers.png"  alt="rational numbers diagram"/>
 </p>
 
+- 
